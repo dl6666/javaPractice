@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bytecode/bytecode.iml" filepath="$PROJECT_DIR$/bytecode/bytecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/practice.iml" filepath="$PROJECT_DIR$/.idea/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syntax/syntax.iml" filepath="$PROJECT_DIR$/syntax/syntax.iml" />
+    </modules>
+  </component>
+</project>
